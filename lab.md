@@ -2,7 +2,7 @@
 
 In this practice lab, you will build a command line tool that lists files in a directory. The tool will take a directory path as an argument and list all the files in the directory. If no argument is provided, the tool will list files in the current directory.
 
-**Learning Objectives**
+**Learning Objectives1**
 
 - Create a command line tool using Python
 - Use pure Python to list files in a directory
